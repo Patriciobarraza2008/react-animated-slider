@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erichbehrens/react-animated-slider.git"
+    "url": "git+https://github.com/Patriciobarraza2008/react-animated-slider.git"
   },
   "keywords": [
     "react",
@@ -33,9 +33,9 @@
   "author": "Erich Behrens <me@eb1.it>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/erichbehrens/react-animated-slider/issues"
+    "url": "https://github.com/Patriciobarraza2008/react-animated-slider/issues"
   },
-  "homepage": "https://github.com/erichbehrens/react-animated-slider#readme",
+  "homepage": "https://github.com/Patriciobarraza2008/react-animated-slider#readme",
   "dependencies": {
     "react": "^16.4.1"
   },
